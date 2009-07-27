@@ -1,0 +1,20 @@
+Laphonica
+
+You'll need Xcode and the JSON Framework.
+Avialible here : http://code.google.com/p/json-framework/
+
+This is source code is orginally from here : http://modentica.com/source.php
+
+The Author wrote : "You're free to do whatever you want with it. If you end up making an app out of it, fine. If you just want to look at it, fine. If you want to give me money because you'll make money from it and you indeed have a soul, fine (if so contact me). I will warn you, however, that I'd never programmed in Objective-C or on the iPhone SDK prior to this so the code is likely to be a bit, shall we say, crappy."
+
+His Name is Mark Bockenstedt and you can mail here (mbockenstedt@gmail.com)
+Since the author doesn't have time I have decided to take it over,
+my goal is that people can use this a base for their Laconica/Identica Clients :D
+
+Please consider this code to be released under a Creative Commons Attribution Share Alike.
+
+A new name, I have decided to call the project Laphonica.
+
+If you use the code please consider adding Floss.pro as one of the supported server.
+
+-Karl Fischer

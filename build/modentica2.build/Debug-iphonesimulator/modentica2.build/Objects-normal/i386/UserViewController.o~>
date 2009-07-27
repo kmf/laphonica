@@ -1,0 +1,9 @@
+/Users/mark/sandbox/modentica2/Classes/Controllers/UserViewController.m:11:33: error: SearchViewController.h: No such file or directory
+/Users/mark/sandbox/modentica2/Classes/Controllers/UserViewController.m: In function '-[UserViewController tableView:didSelectRowAtIndexPath:]':
+/Users/mark/sandbox/modentica2/Classes/Controllers/UserViewController.m:331: error: 'SearchViewController' undeclared (first use in this function)
+/Users/mark/sandbox/modentica2/Classes/Controllers/UserViewController.m:331: error: (Each undeclared identifier is reported only once
+/Users/mark/sandbox/modentica2/Classes/Controllers/UserViewController.m:331: error: for each function it appears in.)
+/Users/mark/sandbox/modentica2/Classes/Controllers/UserViewController.m:331: error: 'svc' undeclared (first use in this function)
+/Users/mark/sandbox/modentica2/Classes/Controllers/UserViewController.m: At top level:
+/Users/mark/sandbox/modentica2/Classes/Controllers/UserViewController.m:345: warning: incomplete implementation of class 'UserViewController'
+/Users/mark/sandbox/modentica2/Classes/Controllers/UserViewController.m:345: warning: method definition for '-UpdateSubscription:' not found

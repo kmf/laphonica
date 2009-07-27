@@ -1,0 +1,699 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* modentica2 */ = {
+		activeExec = 0;
+		executables = (
+			4DA810810F3C936000630612 /* modentica2 */,
+		);
+	};
+	28A0AB4B0D9B1048005BE974 /* modentica2_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {749, 126}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 182}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4DA810810F3C936000630612 /* modentica2 */;
+		activeSDKPreference = iphonesimulator2.2.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* modentica2 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* modentica2 */,
+		);
+		breakpoints = (
+			4D1119C50F50B815000C5445 /* IdenticaAPI.h:15 */,
+			4DED98150F524DD000427604 /* IdenticaAPI.m:297 */,
+			4D8CAA670F53376A00EB64B5 /* objc_exception_throw */,
+			4D8CAA7E0F533B0F00EB64B5 /* EXC_BAD_ACCESS */,
+			4D8CAA890F533B3C00EB64B5 /* StatusViewController.m:45 */,
+			4D17EE140F5376B200F20523 /* objc_exception_throw */,
+			4D9FFB1A0F5CC96D00B0AB13 /* Utilities.h:18 */,
+			4DF530CF0F65BC6B000A7D67 /* WebViewController.h:1 */,
+		);
+		codeSenseManager = 4DA8108C0F3C936B00630612 /* Code sense */;
+		executables = (
+			4DA810810F3C936000630612 /* modentica2 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					252,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					418,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 260914494;
+			PBXWorkspaceStateSaveDate = 260914494;
+		};
+		perUserProjectItems = {
+			4D5273660F81575400BFBBEA /* PBXTextBookmark */ = 4D5273660F81575400BFBBEA /* PBXTextBookmark */;
+			4D52736C0F81577300BFBBEA /* PBXTextBookmark */ = 4D52736C0F81577300BFBBEA /* PBXTextBookmark */;
+			4D56C4110F830D6100BF583C /* PBXTextBookmark */ = 4D56C4110F830D6100BF583C /* PBXTextBookmark */;
+			4D6D97F00F70282D0003D00C /* PBXTextBookmark */ = 4D6D97F00F70282D0003D00C /* PBXTextBookmark */;
+			4D6D97FB0F7028D30003D00C /* PBXBookmark */ = 4D6D97FB0F7028D30003D00C /* PBXBookmark */;
+			4D6D97FD0F7028D30003D00C /* PBXBookmark */ = 4D6D97FD0F7028D30003D00C /* PBXBookmark */;
+			4D735BFC0F545A1A00CE0872 /* PlistBookmark */ = 4D735BFC0F545A1A00CE0872 /* PlistBookmark */;
+			4D735BFF0F545A1A00CE0872 /* PlistBookmark */ = 4D735BFF0F545A1A00CE0872 /* PlistBookmark */;
+			4D8551AF0F7D658B009AD3E6 /* PBXTextBookmark */ = 4D8551AF0F7D658B009AD3E6 /* PBXTextBookmark */;
+			4D8551B20F7D658B009AD3E6 /* PBXTextBookmark */ = 4D8551B20F7D658B009AD3E6 /* PBXTextBookmark */;
+			4D8551B30F7D658B009AD3E6 /* PBXTextBookmark */ = 4D8551B30F7D658B009AD3E6 /* PBXTextBookmark */;
+			4D85527E0F7D7601009AD3E6 /* PBXTextBookmark */ = 4D85527E0F7D7601009AD3E6 /* PBXTextBookmark */;
+			4D85530C0F7D7C8F009AD3E6 /* PBXTextBookmark */ = 4D85530C0F7D7C8F009AD3E6 /* PBXTextBookmark */;
+			4D85530F0F7D7C8F009AD3E6 /* PBXTextBookmark */ = 4D85530F0F7D7C8F009AD3E6 /* PBXTextBookmark */;
+			4DA8135C0F3CD8F800630612 /* PBXTextBookmark */ = 4DA8135C0F3CD8F800630612 /* PBXTextBookmark */;
+			4DA8135E0F3CD8F800630612 /* PBXTextBookmark */ = 4DA8135E0F3CD8F800630612 /* PBXTextBookmark */;
+			4DB0082A0F6EDE320092E803 /* PBXBookmark */ = 4DB0082A0F6EDE320092E803 /* PBXBookmark */;
+			4DB0082C0F6EDE320092E803 /* PBXBookmark */ = 4DB0082C0F6EDE320092E803 /* PBXBookmark */;
+			4DB008DA0F6EE22A0092E803 /* PBXBookmark */ = 4DB008DA0F6EE22A0092E803 /* PBXBookmark */;
+			4DB008DC0F6EE22A0092E803 /* PBXBookmark */ = 4DB008DC0F6EE22A0092E803 /* PBXBookmark */;
+			4DF3B1E30F8B914400E5706D /* PBXTextBookmark */ = 4DF3B1E30F8B914400E5706D /* PBXTextBookmark */;
+			4DF3B2230F8B982600E5706D /* PBXTextBookmark */ = 4DF3B2230F8B982600E5706D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4DA8108B0F3C936B00630612 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4D1112090F4F55EB000C5445 /* StatusViewController.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = StatusViewController.m;
+		path = /Users/mark/sandbox/modentica2/StatusViewController.m;
+		sourceTree = "<absolute>";
+	};
+	4D1119C50F50B815000C5445 /* IdenticaAPI.h:15 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4DA8112F0F3CA81800630612 /* IdenticaAPI.h */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 15;
+		modificationTime = 260911146.575423;
+		state = 2;
+	};
+	4D17EE140F5376B200F20523 /* objc_exception_throw */ = {
+		isa = PBXSymbolicBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 1;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		hitCount = 0;
+		ignoreCount = 0;
+		location = libobjc.A.dylib;
+		modificationTime = 260911146.578659;
+		state = 1;
+		symbolName = objc_exception_throw;
+	};
+	4D17EE830F53809D00F20523 /* Utilities.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = Utilities.h;
+		path = /Users/mark/sandbox/modentica2/Utilities.h;
+		sourceTree = "<absolute>";
+	};
+	4D5273660F81575400BFBBEA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DB008B40F6EE1040092E803 /* Utilities.m */;
+		name = "Utilities.m: 163";
+		rLen = 101;
+		rLoc = 5521;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	4D52736C0F81577300BFBBEA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DB008850F6EE0EE0092E803 /* UserViewController.m */;
+		name = "UserViewController.m: 289";
+		rLen = 0;
+		rLoc = 10187;
+		rType = 0;
+		vrLen = 363;
+		vrLoc = 0;
+	};
+	4D56C4110F830D6100BF583C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DB0087F0F6EE0EE0092E803 /* StatusViewController.m */;
+		name = "StatusViewController.m: 186";
+		rLen = 31;
+		rLoc = 7231;
+		rType = 0;
+		vrLen = 350;
+		vrLoc = 0;
+	};
+	4D57C93C0F6E9A2C00924D96 /* favorite.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+	4D6D97F00F70282D0003D00C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DB0087F0F6EE0EE0092E803 /* StatusViewController.m */;
+		name = "StatusViewController.m: 140";
+		rLen = 31;
+		rLoc = 7231;
+		rType = 0;
+		vrLen = 625;
+		vrLoc = 4994;
+	};
+	4D6D97FB0F7028D30003D00C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4D57C93C0F6E9A2C00924D96 /* favorite.png */;
+	};
+	4D6D97FD0F7028D30003D00C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4D57C93C0F6E9A2C00924D96 /* favorite.png */;
+	};
+	4D735BFC0F545A1A00CE0872 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/mark/sandbox/modentica2/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	4D735BFF0F545A1A00CE0872 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/mark/sandbox/modentica2/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	4D8551AB0F7D6556009AD3E6 /* SearchViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {744, 532}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 405}";
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+	4D8551AC0F7D6556009AD3E6 /* SearchViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 4508}}";
+			sepNavSelRange = "{3778, 0}";
+			sepNavVisRange = "{3122, 907}";
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+	4D8551AF0F7D658B009AD3E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DB0089F0F6EE0F90092E803 /* StatusCell.m */;
+		name = "StatusCell.m: 126";
+		rLen = 0;
+		rLoc = 4383;
+		rType = 0;
+		vrLen = 382;
+		vrLoc = 0;
+	};
+	4D8551B20F7D658B009AD3E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DB0089F0F6EE0F90092E803 /* StatusCell.m */;
+		name = "StatusCell.m: 126";
+		rLen = 0;
+		rLoc = 4383;
+		rType = 0;
+		vrLen = 382;
+		vrLoc = 0;
+	};
+	4D8551B30F7D658B009AD3E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DB008850F6EE0EE0092E803 /* UserViewController.m */;
+		name = "UserViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 363;
+		vrLoc = 0;
+	};
+	4D85527E0F7D7601009AD3E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D8551AB0F7D6556009AD3E6 /* SearchViewController.h */;
+		name = "SearchViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	4D85530C0F7D7C8F009AD3E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DB008A90F6EE1040092E803 /* IdenticaAPI.m */;
+		name = "IdenticaAPI.m: 595";
+		rLen = 0;
+		rLoc = 17783;
+		rType = 0;
+		vrLen = 286;
+		vrLoc = 0;
+	};
+	4D85530F0F7D7C8F009AD3E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DB008A90F6EE1040092E803 /* IdenticaAPI.m */;
+		name = "IdenticaAPI.m: 595";
+		rLen = 0;
+		rLoc = 17783;
+		rType = 0;
+		vrLen = 286;
+		vrLoc = 0;
+	};
+	4D8CAA670F53376A00EB64B5 /* objc_exception_throw */ = {
+		isa = PBXSymbolicBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 1;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		hitCount = 0;
+		ignoreCount = 0;
+		location = libobjc.A.dylib;
+		modificationTime = 260911146.578329;
+		state = 1;
+		symbolName = objc_exception_throw;
+	};
+	4D8CAA7E0F533B0F00EB64B5 /* EXC_BAD_ACCESS */ = {
+		isa = PBXSymbolicBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 1;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		hitCount = 0;
+		ignoreCount = 0;
+		location = "";
+		modificationTime = 260911146.909234;
+		state = 0;
+		symbolName = EXC_BAD_ACCESS;
+	};
+	4D8CAA890F533B3C00EB64B5 /* StatusViewController.m:45 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+			4D8CAA900F533B4000EB64B5 /* XCBreakpointCommandAction */,
+		);
+		breakpointStyle = 0;
+		comments = "Log stack trace and auto-continue.";
+		continueAfterActions = 1;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4D1112090F4F55EB000C5445 /* StatusViewController.m */;
+		functionName = "-initWithNibName:bundle:withStatusID:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 45;
+		location = modentica2;
+		modificationTime = 260911146.576338;
+		state = 2;
+	};
+	4D8CAA900F533B4000EB64B5 /* XCBreakpointCommandAction */ = {
+		isa = XCBreakpointCommandAction;
+		command = bt;
+		fallbackIsa = XCBreakpointAction;
+		logCommand = 0;
+		useDebuggerSideImplementation = 1;
+	};
+	4D9FFB1A0F5CC96D00B0AB13 /* Utilities.h:18 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4D17EE830F53809D00F20523 /* Utilities.h */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 18;
+		modificationTime = 260911146.576497;
+		state = 2;
+	};
+	4DA810810F3C936000630612 /* modentica2 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = modentica2;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	4DA8108B0F3C936B00630612 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	4DA8108C0F3C936B00630612 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4DA8112F0F3CA81800630612 /* IdenticaAPI.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = IdenticaAPI.h;
+		path = /Users/mark/sandbox/modentica2/IdenticaAPI.h;
+		sourceTree = "<absolute>";
+	};
+	4DA811300F3CA81800630612 /* IdenticaAPI.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = IdenticaAPI.m;
+		path = /Users/mark/sandbox/modentica2/IdenticaAPI.m;
+		sourceTree = "<absolute>";
+	};
+	4DA8135C0F3CD8F800630612 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AB4B0D9B1048005BE974 /* modentica2_Prefix.pch */;
+		name = "modentica2_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 189;
+		vrLoc = 0;
+	};
+	4DA8135E0F3CD8F800630612 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AB4B0D9B1048005BE974 /* modentica2_Prefix.pch */;
+		name = "modentica2_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 189;
+		vrLoc = 0;
+	};
+	4DB0082A0F6EDE320092E803 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4D57C9250F6E992400924D96 /* GreenButton.png */;
+	};
+	4DB0082C0F6EDE320092E803 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4D57C9250F6E992400924D96 /* GreenButton.png */;
+	};
+	4DB008630F6EE0EE0092E803 /* ComposeViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 5166}}";
+			sepNavSelRange = "{1953, 0}";
+			sepNavVisRange = "{1258, 1380}";
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+	4DB008650F6EE0EE0092E803 /* FavoriteViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 3472}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{327, 1148}";
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+	4DB008670F6EE0EE0092E803 /* FollowerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 3514}}";
+			sepNavSelRange = "{5453, 0}";
+			sepNavVisRange = "{4508, 1271}";
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+	4DB008680F6EE0EE0092E803 /* FriendViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 686}}";
+			sepNavSelRange = "{326, 15}";
+			sepNavVisRange = "{3, 887}";
+		};
+	};
+	4DB008690F6EE0EE0092E803 /* FriendViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 6552}}";
+			sepNavSelRange = "{3441, 78}";
+			sepNavVisRange = "{2855, 1028}";
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+	4DB0086A0F6EE0EE0092E803 /* GoToUserViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 550}}";
+			sepNavSelRange = "{397, 0}";
+			sepNavVisRange = "{0, 404}";
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+	4DB0086B0F6EE0EE0092E803 /* GoToUserViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 1092}}";
+			sepNavSelRange = "{1911, 0}";
+			sepNavVisRange = "{865, 1257}";
+		};
+	};
+	4DB008750F6EE0EE0092E803 /* MoreViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 3416}}";
+			sepNavSelRange = "{4790, 0}";
+			sepNavVisRange = "{4073, 1938}";
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+	4DB0087E0F6EE0EE0092E803 /* StatusViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 1106}}";
+			sepNavSelRange = "{255, 0}";
+			sepNavVisRange = "{0, 1164}";
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+	4DB0087F0F6EE0EE0092E803 /* StatusViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {936, 7028}}";
+			sepNavSelRange = "{7231, 31}";
+			sepNavVisRange = "{0, 350}";
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+	4DB008840F6EE0EE0092E803 /* UserViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 826}}";
+			sepNavSelRange = "{225, 22}";
+			sepNavVisRange = "{0, 1259}";
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+	4DB008850F6EE0EE0092E803 /* UserViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 4676}}";
+			sepNavSelRange = "{11869, 0}";
+			sepNavVisRange = "{10449, 1712}";
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+	4DB0089C0F6EE0F90092E803 /* LoadingView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 550}}";
+			sepNavSelRange = "{711, 0}";
+			sepNavVisRange = "{0, 726}";
+		};
+	};
+	4DB0089D0F6EE0F90092E803 /* LoadingView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 1036}}";
+			sepNavSelRange = "{1596, 0}";
+			sepNavVisRange = "{760, 988}";
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+	4DB0089E0F6EE0F90092E803 /* StatusCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 588}}";
+			sepNavSelRange = "{1227, 0}";
+			sepNavVisRange = "{3, 1312}";
+		};
+	};
+	4DB0089F0F6EE0F90092E803 /* StatusCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 2464}}";
+			sepNavSelRange = "{4576, 0}";
+			sepNavVisRange = "{3957, 1460}";
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+	4DB008A80F6EE1040092E803 /* IdenticaAPI.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 938}}";
+			sepNavSelRange = "{2205, 0}";
+			sepNavVisRange = "{524, 1848}";
+		};
+	};
+	4DB008A90F6EE1040092E803 /* IdenticaAPI.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 9506}}";
+			sepNavSelRange = "{19647, 0}";
+			sepNavVisRange = "{18613, 1855}";
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+	4DB008AC0F6EE1040092E803 /* modentica2AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 1876}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{570, 1937}";
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+	4DB008AE0F6EE1040092E803 /* PikchurAPI.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1086, 4452}}";
+			sepNavSelRange = "{355, 0}";
+			sepNavVisRange = "{0, 2030}";
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+	4DB008B30F6EE1040092E803 /* Utilities.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1053, 550}}";
+			sepNavSelRange = "{785, 0}";
+			sepNavVisRange = "{0, 970}";
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+	4DB008B40F6EE1040092E803 /* Utilities.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {798, 3346}}";
+			sepNavSelRange = "{2622, 0}";
+			sepNavVisRange = "{0, 302}";
+		};
+	};
+	4DB008DA0F6EE22A0092E803 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4DB008280F6EDE250092E803 /* Default.png */;
+	};
+	4DB008DC0F6EE22A0092E803 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4DB008280F6EDE250092E803 /* Default.png */;
+	};
+	4DED98150F524DD000427604 /* IdenticaAPI.m:297 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4DA811300F3CA81800630612 /* IdenticaAPI.m */;
+		functionName = "-GetUser:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 297;
+		modificationTime = 260911146.576117;
+		state = 2;
+	};
+	4DF3B1E30F8B914400E5706D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DB008B40F6EE1040092E803 /* Utilities.m */;
+		name = "Utilities.m: 85";
+		rLen = 0;
+		rLoc = 2622;
+		rType = 0;
+		vrLen = 302;
+		vrLoc = 0;
+	};
+	4DF3B2230F8B982600E5706D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D8551AB0F7D6556009AD3E6 /* SearchViewController.h */;
+		name = "SearchViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	4DF530120F65A739000A7D67 /* WebViewController.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = WebViewController.h;
+		path = /Users/mark/sandbox/modentica2/WebViewController.h;
+		sourceTree = "<absolute>";
+	};
+	4DF530CF0F65BC6B000A7D67 /* WebViewController.h:1 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4DF530120F65A739000A7D67 /* WebViewController.h */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1;
+		modificationTime = 260911146.878423;
+		state = 0;
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 95}, {1112, 678}}";
+		};
+	};
+}
